@@ -1,1 +1,3 @@
-chao
+public class laboratorio{
+    
+}
